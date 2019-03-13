@@ -1,0 +1,3 @@
+name: aws-vscode-fargate
+runtime: nodejs
+description: Deploy vscode on Fargate
