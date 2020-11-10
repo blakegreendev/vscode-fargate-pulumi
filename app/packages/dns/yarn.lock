@@ -74,10 +74,10 @@ lodash.repeat@^4.1.0:
   resolved "https://registry.yarnpkg.com/lodash.repeat/-/lodash.repeat-4.1.0.tgz#fc7de8131d8c8ac07e4b49f74ffe829d1f2bec44"
   integrity sha1-/H3oEx2MisB+S0n3T/6CnR8r7EQ=
 
-node-named@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/node-named/-/node-named-0.0.1.tgz#3607b434cf237ab99440f5ff6d19c05e3a93e217"
-  integrity sha1-Nge0NM8jermUQPX/bRnAXjqT4hc=
+node-named@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/node-named/-/node-named-0.0.2.tgz#228dfb4dd630d936ee513efd128529ed0eb44057"
+  integrity sha1-Io37TdYw2TbuUT79EoUp7Q60QFc=
   dependencies:
     bunyan "0.7.0"
     ipaddr.js "0.1.1"
