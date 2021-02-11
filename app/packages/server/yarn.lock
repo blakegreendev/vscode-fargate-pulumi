@@ -2518,10 +2518,10 @@ nexe@^2.0.0-rc.34:
     uglify-es "^3.3.9"
     uglify-js "3.0.28"
 
-node-netstat@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/node-netstat/-/node-netstat-1.6.0.tgz#38c36b5f966b00ffaa2ed6f6321e6ad4487d8c89"
-  integrity sha512-KPDopkvPllhcILoHMWYUxvOO5c+VcPB38LxlOFPiZhZ/hJTMH/GXGCs6nvxu4d6unwsbEfgzJ4pPye3CFv9yTg==
+node-netstat@^1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/node-netstat/-/node-netstat-1.8.0.tgz#3f897fd12b631c14f3f0568854056575ee307d71"
+  integrity sha512-P1a5Sh9FfjTXxI6hC9q/Nqre8kT63FQxBCr1qz5ffk76EkQBH62+XEhIhlzfz6Bz+FRwOFqidW2FDGXnOXvyJQ==
   dependencies:
     is-wsl "^1.1.0"
 
