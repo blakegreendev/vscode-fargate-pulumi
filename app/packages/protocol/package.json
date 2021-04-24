@@ -3,7 +3,7 @@
     "main": "src/index.ts",
     "dependencies": {
         "express": "^4.16.4",
-        "google-protobuf": "^3.6.1",
+        "google-protobuf": "^3.15.7",
         "node-pty-prebuilt": "^0.7.6",
         "spdlog": "^0.7.2",
         "tslib": "^1.9.3",
