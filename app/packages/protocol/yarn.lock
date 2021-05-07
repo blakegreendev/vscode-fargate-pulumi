@@ -306,6 +306,11 @@ github-from-package@0.0.0:
   resolved "https://registry.yarnpkg.com/github-from-package/-/github-from-package-0.0.0.tgz#97fb5d96bfde8973313f20e8288ef9a167fa64ce"
   integrity sha1-l/tdlr/eiXMxPyDoKI75oWf6ZM4=
 
+google-protobuf@^3.15.8:
+  version "3.16.0"
+  resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.16.0.tgz#87c61829a8aec7d9244dcbed9464e1d0fcbed8ae"
+  integrity sha512-gBY66yYL1wbQMU2r1POkXSXkm035Ni0wFv3vx0K9IEUsJLP9G5rAcFVn0xUXfZneRu6MmDjaw93pt/DE56VOyw==
+
 google-protobuf@^3.6.1:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.6.1.tgz#7ef58e2bea137a93cdaf5cfd5afa5f6abdd92025"
