@@ -7,7 +7,7 @@
         "node-pty-prebuilt": "^0.7.6",
         "spdlog": "^0.7.2",
         "tslib": "^1.9.3",
-        "ws": "^6.1.2"
+        "ws": "^7.4.6"
     },
     "devDependencies": {
         "@types/google-protobuf": "^3.2.7",
