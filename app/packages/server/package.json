@@ -9,7 +9,7 @@
 		"build:nexe": "node scripts/nexe.js"
 	},
 	"dependencies": {
-		"@oclif/config": "^1.10.4",
+		"@oclif/config": "^1.17.0",
 		"@oclif/errors": "^1.2.2",
 		"@oclif/plugin-help": "^2.1.4",
 		"express": "^4.16.4",
