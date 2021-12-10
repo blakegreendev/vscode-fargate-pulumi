@@ -3,8 +3,8 @@
 	"main": "src/app.ts",
 	"dependencies": {
 		"material-components-web": "^0.44.0",
-		"react": "^16.8.1",
-		"react-dom": "^16.8.1"
+		"react": "^16.14.0",
+		"react-dom": "^16.14.0"
 	},
 	"devDependencies": {
 		"@types/react": "^16.8.2",
