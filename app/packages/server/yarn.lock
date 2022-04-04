@@ -2784,15 +2784,15 @@ path-to-regexp@0.1.7:
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
   integrity sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
 
-pem@^1.14.1:
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/pem/-/pem-1.14.1.tgz#8ff3c5884bfcba7bbdfea5b67a7fa24b4ca3bb86"
-  integrity sha512-WY3IzMoh+Gwp4xJTT2MqIOaVzNqU7jHqj7k0pOnLIkNSnOpjhy3PHr9mXGi+C5tRC2z1EX5lvzEbd9BtHumHLQ==
+pem@^1.14.6:
+  version "1.14.6"
+  resolved "https://registry.yarnpkg.com/pem/-/pem-1.14.6.tgz#89babca3a73466fb844df70666dbf1b25eb0dc56"
+  integrity sha512-I5GKUer2PPv5qzUfxaZ6IGRkhp+357Kyv2t1JJg9vP8hGGI13qU34N2QupmggbpIZGPuudH0jn8KU5hjFpPk3g==
   dependencies:
     es6-promisify "^6.0.0"
     md5 "^2.2.1"
     os-tmpdir "^1.0.1"
-    which "^1.3.1"
+    which "^2.0.2"
 
 pend@~1.2.0:
   version "1.2.0"
@@ -3809,10 +3809,10 @@ watch@^1.0.1:
     exec-sh "^0.2.0"
     minimist "^1.2.0"
 
-which@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/which/-/which-1.3.1.tgz#a45043d54f5805316da8d62f9f50918d3da70b0a"
-  integrity sha512-HxJdYWq1MTIQbJ3nw0cqssHoTNU267KlrDuGZ1WYlxDStUtKUhOaJmh112/TZmHxxUfuJqPXSOm7tDyas0OSIQ==
+which@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/which/-/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
+  integrity sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==
   dependencies:
     isexe "^2.0.0"
 
