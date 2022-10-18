@@ -6,7 +6,7 @@
     "benchmark": "ts-node ./test/*.bench.ts"
   },
   "dependencies": {
-    "jszip": "2.6.0",
+    "jszip": "2.7.0",
     "path": "0.12.7",
     "resolve": "1.8.1"
   },
