@@ -2,12 +2,13 @@
 # yarn lockfile v1
 
 
-"@types/chrome@^0.0.79":
-  version "0.0.79"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.79.tgz#1c83b35bd9b21b6204fb56e4816a1ea65dc013e5"
-  integrity sha512-4+Xducpig6lpwVX65Hk8KSZwRoURHXMDbd38SDNcV8TBaw4xyJki39fjB1io2h7ip+BsyFvgTm9OxR5qneLPiA==
+"@types/chrome@^0.0.228":
+  version "0.0.228"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.228.tgz#e507fe23ecbc7369774520255c1b7011b30ceced"
+  integrity sha512-rDmyVEF+l9H+6FQYqsEGqQOjBw/uaSx6KJ6o47FwbQmPPcskmt8XlPbKjy5KeQXU3ZLiV2x45Fk4kdtRMSghfQ==
   dependencies:
     "@types/filesystem" "*"
+    "@types/har-format" "*"
 
 "@types/filesystem@*":
   version "0.0.29"
@@ -20,3 +21,8 @@
   version "0.0.28"
   resolved "https://registry.yarnpkg.com/@types/filewriter/-/filewriter-0.0.28.tgz#c054e8af4d9dd75db4e63abc76f885168714d4b3"
   integrity sha1-wFTor02d11205jq8dviFFocU1LM=
+
+"@types/har-format@*":
+  version "1.2.10"
+  resolved "https://registry.yarnpkg.com/@types/har-format/-/har-format-1.2.10.tgz#7b4e1e0ada4d17684ac3b05d601a4871cfab11fc"
+  integrity sha512-o0J30wqycjF5miWDKYKKzzOU1ZTLuA42HZ4HE7/zqTOc/jTLdQ5NhYWvsRQo45Nfi1KHoRdNhteSI4BAxTF1Pg==
