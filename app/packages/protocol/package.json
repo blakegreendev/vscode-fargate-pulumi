@@ -2,12 +2,12 @@
     "name": "@coder/protocol",
     "main": "src/index.ts",
     "dependencies": {
-        "express": "^4.16.4",
-        "google-protobuf": "^3.6.1",
+        "express": "^4.19.2",
+        "google-protobuf": "^3.21.4",
         "node-pty-prebuilt": "^0.7.6",
-        "spdlog": "^0.7.2",
-        "tslib": "^1.9.3",
-        "ws": "^6.1.2"
+        "spdlog": "^0.13.7",
+        "tslib": "^1.14.1",
+        "ws": "^6.2.3"
     },
     "devDependencies": {
         "@types/google-protobuf": "^3.2.7",
